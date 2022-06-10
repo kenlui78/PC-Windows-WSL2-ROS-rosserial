@@ -121,7 +121,7 @@ wsl --shutdown
 ### Reopen your Ubuntu.
 ### Your Ubuntu is now with USB driver, but Windows by default will not attach USB device to WSL. To do so, we need a software called usbipd. This solution is provided at: https://devblogs.microsoft.com/commandline/connecting-usb-devices-to-wsl/
 
-### Install usbipd to your Winsows at: https://github.com/dorssel/usbipd-win/releases/tag/v2.1.0 
+### Install usbipd to your Windows at: https://github.com/dorssel/usbipd-win/releases/tag/v2.1.0 
 
 ### Open a new Ubuntu terminal and type:
 
